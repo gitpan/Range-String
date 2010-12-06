@@ -1,0 +1,47 @@
+Range-String
+
+An suite of objected-oriented modules for string and integer set arithmetics.
+
+Range::String is able to parse complex range arithmetic expressions such as 
+scope, subtraction, intersection, etc.
+
+Version 0.01 is a pure Perl implementation.
+
+INSTALLATION
+
+To install this module, run the following commands:
+
+	perl Makefile.PL
+	make
+	make test
+	make install
+
+SUPPORT AND DOCUMENTATION
+
+After installing, you can find documentation for this module with the
+perldoc command.
+
+    perldoc Range::Integer
+
+You can also look for information at:
+
+    RT, CPAN's request tracker
+        http://rt.cpan.org/NoAuth/Bugs.html?Dist=Range-Integer
+
+    AnnoCPAN, Annotated CPAN documentation
+        http://annocpan.org/dist/Range-Integer
+
+    CPAN Ratings
+        http://cpanratings.perl.org/d/Range-Integer
+
+    Search CPAN
+        http://search.cpan.org/dist/Range-Integer/
+
+
+COPYRIGHT AND LICENCE
+
+Copyright (C) 2010 Kan Liu
+
+This program is free software; you can redistribute it and/or modify it
+under the same terms as Perl itself.
+

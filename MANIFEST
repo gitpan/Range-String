@@ -1,0 +1,16 @@
+Changes
+MANIFEST
+Makefile.PL
+README
+lib/Range/Integer/Object.pm
+lib/Range/Integer/Parse.pm
+lib/Range/Integer.pm
+lib/Range/Interface/Object.pm
+lib/Range/Interface/Parse.pm
+lib/Range/String/Object.pm
+lib/Range/String/Parse.pm
+lib/Range/String.pm
+t/00-load.t
+t/pod-coverage.t
+t/pod.t
+META.yml                                 Module meta-data (added by MakeMaker)
